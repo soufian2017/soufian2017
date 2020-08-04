@@ -16,7 +16,7 @@
 ## Blog
 
 Find out more about CTFs, challenges, hacking fun and learning through solving in my blog.
-> ![BLOG](https://github.com/soufian2017.github.io/soufian2017/raw/master/images/blog.png) [**Check out my blog**](https://soufian2017.github.io/Blog/)
+> ![BLOG](https://github.com/soufian2017/soufian2017.github.io/raw/master/images/blog.png) [**Check out my blog**](https://soufian2017.github.io/Blog/)
 
 ## Bug Bounty
 
